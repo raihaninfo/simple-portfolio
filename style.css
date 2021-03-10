@@ -1,35 +1,44 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
 .benar-container {
     background-color: #CBCBCB;
 
 }
+
 .benar-colom {
     background-color: #8D8D8D;
-    margin: auto ;
+    margin: auto;
 }
+
 .navbar-container {
     background-color: #262B39;
 
 }
+
 .about-container {
     background-color: #00A9BF;
 }
-.education-container{
+
+.education-container {
     background-color: #EEEEEE;
 }
-.redtype{
+
+.redtype {
     background-color: #FF907D;
 }
 
 .redtype:hover {
     background-color: #20A8E4;
-    color: black; inportant;
+    color: black;
+    inportant;
 }
-.redcolor{
+
+.redcolor {
     color: #FF907D;
 }
+
 .circle {
     background-color: #FF907D;
     width: 120px;
@@ -37,18 +46,23 @@ body {
     border-radius: 50%;
     text-align: center;
 }
+
 .project {
     background-color: #20A8E4;
 }
+
 .form-container {
     background-color: #464D5E;
 }
+
 .iner-form {
     background-color: #576077;
 }
+
 .fotor {
     background-color: #20A8E4;
 }
+
 .icon-carcle {
     height: 60px;
     width: 60px;
@@ -59,6 +73,7 @@ body {
     text-align: center;
     color: #20A8E4;
 }
+
 .icon-carcle:hover {
     background-color: #464D5E;
 }
